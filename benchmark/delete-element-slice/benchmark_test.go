@@ -1,4 +1,4 @@
-package delete_elment_slice
+package delete_element_slice
 
 import (
 	"testing"
