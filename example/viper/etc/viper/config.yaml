@@ -1,1 +1,5 @@
 hello: world
+
+o1:
+  o2:
+    hello: world
